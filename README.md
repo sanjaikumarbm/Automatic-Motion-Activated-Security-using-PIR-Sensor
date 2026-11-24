@@ -3,7 +3,7 @@
 To detect motion using a PIR sensor connected to an Arduino and trigger an LED (using the built-in LED) when motion is sensed.
              
 ## Hardware / Software Tools required:
-1.	 Arduino Uno R3 – 1 No
+1.	 Arduino Uno R4 wifi – 1 No
 2.	PIR Sensor – 1 No
 3.	LED (in-built on Arduino pin 13) – 1 No
 4.	220-ohm resistor – 1 No (used with external LED if necessary)
